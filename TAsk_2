@@ -1,0 +1,6 @@
+import math #Importing the maths function library
+
+num =int(input('Enter a number: '))  # Taking input from the user
+print(f'Square root: {math.sqrt(num)}') #Printing the sqaure of the number
+print(f'Logarithm: {math.log10(num)}') #Printing the Logarithm value 
+print(f'Sine: {math.sin(num)}') #Printing Sine value
